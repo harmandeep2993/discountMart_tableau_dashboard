@@ -47,7 +47,7 @@ This dashboard allows users to:
 This Tableau dashboard offers a powerful tool for DiscountMart’s management team to track and optimize their sales performance, profitability, and costs. The visualizations provide insights that guide marketing strategies, inventory management, and operational efficiencies.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSe) file for details.
 
 ### Acknowledgements
 - Thanks to [Tableau](https://www.tableau.com/) for the powerful data visualization tool.
