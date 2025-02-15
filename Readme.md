@@ -41,8 +41,7 @@ The dataset used for this project includes:
     
 These dashboards together will provide a holistic view of DiscountMart’s performance, enabling **data-driven decision-making** and **strategic planning**.
 
-![Performance Dashboard](Scrt Performace Dashboard.png)
-![Performance Dashboard](Scrt Performance Dashboard.png)
+![Performace Dashboard](Scrt Performance Dashboard.png)
 
 
 ### 📂 Files in This Repository
