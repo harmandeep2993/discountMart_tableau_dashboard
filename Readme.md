@@ -31,7 +31,7 @@ The dataset used for this project includes:
   - 📉 **Category Distribution by Revenue and Profit**: Visualizes the distribution of revenue and profit across different product categories.
   - 🌍 **Country Distribution by Revenue and Profit**: Highlights revenue and profit distribution by country.
 
-![Overview Dashboard](Scrt Overview Dashboard.png)
+![Overview Dashboard](Scrt_Overview_Dashboard.png)
 
   - **Performance Dashboard**: The Performance Dashboard focuses on detailed performance metrics, showcasing top categories and other critical data points. It will include:
     - 💵 **Top Revenue Categories and Country**: Product categories with the highest revenue, along with country-specific data.
@@ -41,7 +41,7 @@ The dataset used for this project includes:
     
 These dashboards together will provide a holistic view of DiscountMart’s performance, enabling **data-driven decision-making** and **strategic planning**.
 
-![Performace Dashboard](Scrt Performance Dashboard.png)
+![Performace Dashboard](Scrt_Performance_Dashboard.png)
 
 
 ### 📂 Files in This Repository
